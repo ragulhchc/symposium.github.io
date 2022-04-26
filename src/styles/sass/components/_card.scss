@@ -1,0 +1,103 @@
+.event__card {
+  background-color: var(--card-color);
+  border-radius: 1rem;
+  transition: all;
+  transition-duration: 0.3s;
+  margin: 2rem !important;
+  &:hover {
+    transform: scale(1.1);
+  }
+  &-image {
+    img {
+    }
+  }
+  &-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    padding: 1rem;
+    .event__card-heading {
+      display: flex;
+      justify-content: space-between;
+      .event__card-series {
+        color: var(--orange);
+        text-transform: uppercase;
+        font-size: 1rem;
+        letter-spacing: 0.1rem;
+      }
+      .event__card-top {
+        color: var(--accent-color3);
+        text-transform: uppercase;
+        font-size: 0.7rem;
+      }
+    }
+    .event__card-details {
+      display: flex;
+      justify-content: space-between;
+      color: var(--accent-color1);
+      .event__card-title {
+      }
+      .event__card-price {
+        display: flex;
+        gap: 1rem;
+        img {
+        }
+        h4 {
+        }
+      }
+    }
+    .event__card-sub-details {
+      display: flex;
+      justify-content: space-between;
+      span {
+        margin-top: 0.2rem;
+        color: var(--accent-color3);
+        font-size: 0.8rem;
+        max-width: 16rem;
+      }
+    }
+  }
+  &--button {
+    &__container {
+      margin: 0.2rem auto;
+    }
+    &__button {
+    }
+  }
+  &--container {
+    display: flex;
+  }
+}
+
+.page--title {
+  background: 50% 100% / 50% 50% no-repeat
+    radial-gradient(
+      ellipse at bottom,
+      rgb(241, 196, 15),
+      transparent,
+      transparent
+    );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  font-size: 4rem;
+  margin-top: 4rem;
+
+  animation: reveal 3000ms ease-in-out forwards 200ms,
+    glow 2500ms linear infinite 2000ms;
+  display: block;
+
+  @keyframes reveal {
+    80% {
+      letter-spacing: 8px;
+    }
+    100% {
+      background-size: 300% 300%;
+    }
+  }
+  @keyframes glow {
+    40% {
+      text-shadow: 0 0 8px rgb(241, 196, 15);
+    }
+  }
+}

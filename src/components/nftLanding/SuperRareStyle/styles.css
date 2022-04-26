@@ -1,0 +1,18 @@
+.card {
+  min-height: 200px;
+  background-color: #eee;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 12px;
+}
+
+.small {
+  font-size: 3rem;
+}
+
+.small--description {
+  font-size: 1rem;
+}
