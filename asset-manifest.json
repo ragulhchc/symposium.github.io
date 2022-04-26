@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5211b67.css",
+    "main.js": "/static/js/main.4e451372.js",
+    "static/js/937.668f3ac0.chunk.js": "/static/js/937.668f3ac0.chunk.js",
+    "static/js/787.83ce1910.chunk.js": "/static/js/787.83ce1910.chunk.js",
+    "static/media/ThreadsLogo.png": "/static/media/ThreadsLogo.950a0355b9c64420f333.png",
+    "static/media/event6.png": "/static/media/event6.98acb75cc8d6158636df.png",
+    "static/media/poster.jpeg": "/static/media/poster.e8682ee32b54986fc8c6.jpeg",
+    "static/media/event4.png": "/static/media/event4.b05826ff1370692e959c.png",
+    "static/media/release1.png": "/static/media/release1.0c482aba7d6da2c3e9bb.png",
+    "static/media/event10.png": "/static/media/event10.1409b48bda4c90fc0900.png",
+    "static/media/event3.png": "/static/media/event3.e48798459eca936082b3.png",
+    "static/media/signup.png": "/static/media/signup.12cb0fcd7fcce38eca10.png",
+    "static/media/event9.png": "/static/media/event9.67250b98463fc5c83c5c.png",
+    "static/media/release2.png": "/static/media/release2.d54e21ff9ecf711580c1.png",
+    "static/media/event1.png": "/static/media/event1.e9de22eb0250bde0ae7d.png",
+    "static/media/super2.png": "/static/media/super2.3dd3ef03cdf3bdd7f265.png",
+    "static/media/super4.png": "/static/media/super4.cb4b74964859a8dd6ecb.png",
+    "static/media/super1.png": "/static/media/super1.1fbdfb3ac7255099ffbb.png",
+    "static/media/super3.png": "/static/media/super3.190d195b791351c19c67.png",
+    "static/media/College.png": "/static/media/College.014ed2ee8bfb1d14be80.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.d5211b67.css.map": "/static/css/main.d5211b67.css.map",
+    "main.4e451372.js.map": "/static/js/main.4e451372.js.map",
+    "937.668f3ac0.chunk.js.map": "/static/js/937.668f3ac0.chunk.js.map",
+    "787.83ce1910.chunk.js.map": "/static/js/787.83ce1910.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5211b67.css",
+    "static/js/main.4e451372.js"
+  ]
+}
